@@ -1,0 +1,102 @@
+OPEN UP (proceso unificado abierto)
+
+*Es una macrometodologia
+*Es una macro tecnologia que incorpora grandes metodos, distribuido en el mundo.
+*Marco generico, ventaja que nos da todo para aplicar.
+
+*Aplica enfoque iterativos e incrementales dentro de un ciclo de vida estructurado
+
+*Proceso y desarrollo de software (Proceso=metodo de trabajo) (los metodos se incorporan dentro de los procesos)
+
+*OPEn up nos especifica algunas actividades, filososfia pragmatica y agil
+
+-adapto filosofia basada en la practica, se basa en el desarrollo colaborativo
+
+Orientado para equipos pequenos que trabjaan en un solo lugar, 
+
+Metodo  
+Proceso
+
+centrado en eliminar el riesgo, 
+Listado, trackeado, y asignado a traves de la Lista de Artefactos.
+	-repositorio para tareas que necesitan ser grabadas y tarqueadas, 
+	- artefactos:
+		-codigo
+		-diagrama de gantt
+		-diagrama de clases
+		-conversacion con el usuario
+
+-Definen todos lo artefactos que se deben producir en proceso de software.
+-entender el artefacto, y las macrometodo me dicen como hacerlo bien, y me dice quien debe participar
+
+El foco, es conocer la lsita de artefactos
+
+PRINCIPIOS
+	-colaborar para sincronizar y compartir conocimiento, hablar lo justo para maximizar
+	-equilibrar las prioridades para maximar el beneficio obtenido por los interesados en el proyecto.
+	-centrase en la arquitectura : arquitectura elemento principal 
+	arquitectura logica =diagrama de clases
+	arquitectura fisica =donde a estar implementado, 
+	-Desarrollo evolutivo para obtener retroalimentacion y mejorar continuo
+
+
+Los ROLES ejecutan tareas que usan o producen artefactos, quienes hacen las cosas, que es lo que hay que hacer. // roles que no pueden faltar
+-Basicos: analisita, arquitecto, desarrollador, jefe de proyecto, stakeholder, tester, cualquiera = any; 
+-Despliegue, toda una actividad, que requiere de actividades, como la capacitacion, dueno de prodcuto, escritor tecnico, capacitador, hay que preparar la gente, gente que prepare el despliegue(quien capactica), quien entrega el trabajo, cuando requiere cambios grandes
+-De Ambiente: prepara el entorno, para que funcione correctamente, se prepara la gente, la gente que domina la parte de tecnologia, hay que preparar entornos en diferentes formas
+
+
+
+ROLES ejecutan TAREAS que usan o producen artefactos
+
+-Disciplina Gestion de proyectos
+	-tareas: pedido de cmabios, plan de proyecto, plan de iteraciones, orientado a como esa tarea se evalua en el itmpeo,
+-Disciplica Ambiente 
+	-tareas: ajustar el proceso, poner el marcho el proyecto, setear herramientoas, para el correcto funconamiento
+-Disciplina de Requerimiento: 
+	-Tareas: Identificar requerimiento, detallar requierimiento, detallar esceneraios, desarrollar vision tecnica
+-Discip Arquitectura 
+	-tareas: visionar la arquitectura, refinar la arquitectura
+-Dis Desarrollo:
+	tareas: todo lo codigo, y casos de prueba, se produce codigo, y son artefactos, disenar la solucion, implementar, integrar cambios, 
+-Disc Desplieguet:
+	tareas: desarrollar documentacion, capactiacion, instalar
+-dis Pruebas
+	tareas: crear, implementar y ejecutar casos de prueba, se hace en paralelo desde el modelado de software
+
+Los ROLES ejecutan TAREAS que usan o producen ARTEFACTOS
+- Dominios,
+ 
+
+Desciprcion de Oen UP
+-capas
+	-microincremento (persona)
+		-unidad pequena de trabajo que es medible (horas/dias)
+	-iteracion del ciclo de vida (equipo)
+		-entregar valor incrementarl al proyecto
+		-iteracion qe se miden en semanas
+	-ciclo de vida del proyecto (Stakeholder)
+
+-Fases : inicio, elaboracion, construccion, transciion
+	-cada fase consiste en 2 o mas itneraciones
+	-se construyen version de software estable s y funcionale
+
+
+
+	Work PRODUCTS
+		-requerimientos 
+
+
+
+
+
+
+
+
+
+
+EN que consiste, para que sirve, como usarlo, como hacerlo, 
+
+
+
+
